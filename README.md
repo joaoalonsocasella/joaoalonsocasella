@@ -103,10 +103,5 @@
 
 <h3> ⚙️ GitHub Analytics </h3>
 
-<!-- [![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaoalonsocasella)](https://github.com/joaoalonsocasella/github-readme-stats) -->
+[![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaoalonsocasella)](https://github.com/joaoalonsocasella/github-readme-stats)
   
-
-<a href="https://github.com/joaoalonsocasella">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaoalonsocasella&theme=react&show_icons=true" style"max-width: 100%;" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=joaoalonsocasella&theme=react" style"max-width: 100%;" />
-</a>
