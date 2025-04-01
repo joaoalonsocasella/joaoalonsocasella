@@ -10,6 +10,7 @@
 
 <img align="right" alt="Coding" width="1200" src="gif_jojoca.gif">
 
+![Snake Animation](https://github.com/joaoalonsocasella/joaoalonsocasella/blob/output/github-contribution-grid-snake.svg)
 
 <br>
 
@@ -105,4 +106,3 @@
    -->
 
 
-![Snake Animation](https://github.com/joaoalonsocasella/joaoalonsocasella/blob/output/github-contribution-grid-snake.svg)
