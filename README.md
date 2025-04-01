@@ -34,6 +34,8 @@
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![Rstudio](https://img.shields.io/badge/-Rstudio-333333?style=flat&logo=RStudio)
+  ![Stata](https://img.shields.io/badge/-Stata-333333?style=flat&logo=Stata)
+  ![Eviews](https://img.shields.io/badge/-Eviews-333333?style=flat&logo=Eviews)
   <!-- ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) -->
   <!-- ![TyeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript) -->
   <!-- ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) -->
@@ -56,14 +58,14 @@
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-  <!-- ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb) -->
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   <!-- ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis) -->
-  <!-- ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite) -->
+  ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
   <!-- ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase) -->
   <!-- ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-333333?style=flat&logo=elasticsearch) -->
   <!-- ![DynamoDB](https://img.shields.io/badge/-DynamoDB-333333?style=flat&logo=amazon-dynamodb) -->
   <!-- ![Cassandra](https://img.shields.io/badge/-Cassandra-333333?style=flat&logo=apache-cassandra) -->
-  <!-- ![MariaDB](https://img.shields.io/badge/-MariaDB-333333?style=flat&logo=mariadb) -->
+  ![MariaDB](https://img.shields.io/badge/-MariaDB-333333?style=flat&logo=mariadb)
   <!-- ![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=oracle) -->
   ![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-333333?style=flat&logo=microsoft-sql-server)
   <!-- ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite) -->
@@ -76,8 +78,10 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Visual Studio Community](https://img.shields.io/badge/-Visual%20Studio%20Community-333333?style=flat&logo=visual-studio-code&logoColor=7d3bbc)
   <!-- ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma) -->
-<!-- - 🖥 &nbsp; -->
+- 🖥 &nbsp;
   <!-- ![Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=unity) -->
+  ![Bloomberg](https://img.shields.io/badge/-bloomberg-333333?style=flat&logo=bloomberg)
+  ![Macrobond](https://img.shields.io/badge/-macrobond-333333?style=flat&logo=macrobond)
   <!-- ![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-333333?style=flat&logo=unreal-engine) -->
   <!-- ![3DS Max](https://img.shields.io/badge/-3DS%20Max-333333?style=flat&logo=3ds-max) -->
   <!-- ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop) -->
