@@ -6,5 +6,7 @@
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-2366d1?style=flat-square&logo=github&logoColor=white&link=https://github.com/joaoalonsocasella)](https://github.com/joaoalonsocasella)
 
 
+[![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaoalonsocasella)](https://github.com/joaoalonsocasella/github-readme-stats)
+
 - 🔭 Hoje trabalho com front-end
 - 🌱 Estudando: Modelos de inteligência artificial/inteligência de mercado
