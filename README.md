@@ -8,7 +8,7 @@
 
 ## A passionate Economist and Full-Stack Developer from Brazil 💻🌎
 
-<img align="right" alt="Coding" width="1200" src="gif_jojoca.gif">
+<img align="right" alt="Coding" width="1200" src="jojoca.gif">
 
 
 <br>
