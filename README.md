@@ -33,6 +33,7 @@
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![Rstudio](https://img.shields.io/badge/Rstudio)
   <!-- ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) -->
   <!-- ![TyeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript) -->
   <!-- ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) -->
