@@ -104,6 +104,6 @@
 [![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaoalonsocasella)](https://github.com/joaoalonsocasella/github-readme-stats)
    -->
 
-![Snake animation](https://github.com/joaoalonsocasella/joaoalonsocasella/blob/output/github-contribution-grid-snake.svg)
+## 📈 GitHub Contribution Snake
 
-<br/>
+![snake gif](https://github.com/joaoalonsocasella/joaoalonsocasella/blob/output/github-contribution-grid-snake.svg)
