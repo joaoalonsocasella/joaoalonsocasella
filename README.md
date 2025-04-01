@@ -80,8 +80,8 @@
   <!-- ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma) -->
 - 🖥 &nbsp;
   <!-- ![Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=unity) -->
-  ![Bloomberg](https://img.shields.io/badge/-bloomberg-333333?style=flat&logo=bloomberg)
-  ![Macrobond](https://img.shields.io/badge/-macrobond-333333?style=flat&logo=macrobond)
+  ![Bloomberg](https://img.shields.io/badge/-Bloomberg-333333?style=flat&logo=Bloomberg)
+  ![Macrobond](https://img.shields.io/badge/-Macrobond-333333?style=flat&logo=Macrobond)
   <!-- ![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-333333?style=flat&logo=unreal-engine) -->
   <!-- ![3DS Max](https://img.shields.io/badge/-3DS%20Max-333333?style=flat&logo=3ds-max) -->
   <!-- ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop) -->
