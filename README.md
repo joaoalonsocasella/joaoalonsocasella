@@ -13,7 +13,7 @@
 
 <br>
 
-![Snake Animation](https://github.com/joaoalonsocasella/joaoalonsocasella/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/joaoalonsocasella/joaoalonsocasella/blob/output/github-contribution-grid-snake.svg)
 
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
