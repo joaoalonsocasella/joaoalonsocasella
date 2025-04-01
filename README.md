@@ -12,7 +12,9 @@
 - 📫 How to reach me j.casella2002@gmail.com
 - ⚡ Fun fact: I love music
 
-[![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaoalonsocasella)](https://github.com/joaoalonsocasella/github-readme-stats)
+<img align="right" alt="Coding" width="400" src="gif_jojoca.gif">
+
+<!-- [![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaoalonsocasella)](https://github.com/joaoalonsocasella/github-readme-stats) -->
 
 
 
