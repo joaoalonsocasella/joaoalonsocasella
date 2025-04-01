@@ -6,8 +6,6 @@
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-2366d1?style=flat-square&logo=github&logoColor=white&link=https://github.com/joaoalonsocasella)](https://github.com/joaoalonsocasella)
 
 
-<br>
-
 ## A passionate Economist and Full-Stack Developer from Brazil 💻🌎
 
 <img align="right" alt="Coding" width="1200" src="gif_jojoca.gif">
@@ -101,7 +99,11 @@
 <br/>
 
 
-<h3> ⚙️ GitHub Analytics </h3>
+<!-- <h3> ⚙️ GitHub Analytics </h3>
 
 [![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaoalonsocasella)](https://github.com/joaoalonsocasella/github-readme-stats)
-  
+   -->
+
+![Snake animation](https://github.com/joaoalonsocasella/joaoalonsocasella/blob/output/github-contribution-grid-snake.svg)
+
+<br/>
