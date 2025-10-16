@@ -6,7 +6,7 @@
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-2366d1?style=flat-square&logo=github&logoColor=white&link=https://github.com/joaoalonsocasella)](https://github.com/joaoalonsocasella)
 
 
-## A passionate Economist and Full-Stack Developer from Brazil 💻🌎
+## A passionate Economist and Data Scientist from Brazil 💻🌎
 
 <img align="right" alt="Coding" width="1200" src="jojoca.gif">
 
@@ -21,9 +21,9 @@
 - 🎓 &nbsp; I have a Bachelor's Degree in Economics at <a href="https://www.insper.edu.br/">Insper</a>.
 - 🔭 &nbsp; I'm currently working on a lot of things.
 - 🌱 &nbsp; I'm currently learning <b>AI and statistical models/applications, Business Intelligence and DevOps</b>
-- 💬 &nbsp; Ask me about Reinforcement Learning, Time Series, Economic Research
+- 💬 &nbsp; Ask me about Reinforcement Learning, Time Series, Economic Research, QGIS
 - 📫 &nbsp; How to reach me j.casella2002@gmail.com
-- ⚡ &nbsp; Fun fact: I love music
+- ⚡ &nbsp; Fun fact: I love music and am currently developing a multiplayer game in Unity with my brother
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
