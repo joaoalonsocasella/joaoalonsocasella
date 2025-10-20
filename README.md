@@ -24,7 +24,7 @@
 - 💬 &nbsp; Ask me about Reinforcement Learning, Time Series, Economic Research, QGIS
 - 📫 &nbsp; How to reach me j.casella2002@gmail.com
 - ⚡ &nbsp; Fun fact: I love music and am currently developing a multiplayer game in Unity with my brother.
-Check out my soundcloud: https://soundcloud.com/joao-alonso-casella
+- Check out my soundcloud: https://soundcloud.com/joao-alonso-casella
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
