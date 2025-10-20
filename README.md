@@ -23,7 +23,7 @@
 - 🌱 &nbsp; I'm currently learning <b>AI and statistical models/applications, Business Intelligence and DevOps</b>
 - 💬 &nbsp; Ask me about Reinforcement Learning, Time Series, Economic Research, QGIS
 - 📫 &nbsp; How to reach me j.casella2002@gmail.com
-- ⚡ &nbsp; Fun fact: I love music and am currently developing a multiplayer game in Unity with my brother. Check out my soundcloud: ![SoundCloud](https://soundcloud.com/joao-alonso-casella)
+- ⚡ &nbsp; Fun fact: I love music and am currently developing a multiplayer game in Unity with my brother. Check out my soundcloud: https://soundcloud.com/joao-alonso-casella
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
